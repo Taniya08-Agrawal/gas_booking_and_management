@@ -1,0 +1,25 @@
+img{
+    width:40%;
+    height:30%;
+    border-style:solid;
+    border-radius:50%;
+    background-repeat:no-repeat;
+}
+body{
+	background-color:lightseagreen;
+}
+.container{
+	background-color:navy;
+}
+.panel-heading{
+	font-size:35px; 
+	font-family:monotype corsiva; 
+	color:yellow;
+}
+.row{
+	text-align:center;
+}
+.col-xs-12{
+	text-align:center; 
+	margin-top:30px;
+}

@@ -1,0 +1,84 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	background-image: url(redlpg.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+
+
+.header img {
+	float: left;
+	width: 100px;
+	height: 100px;
+	padding: 10px 0px 20px 10px;
+	display: inline-block;
+}
+
+.header h1 {
+	padding-top: 30px;
+	color: #ff794d;
+	font-size: 30px;
+	font-family: serif;
+	text-shadow: 1px 1px #ff0000;
+  
+ 
+}
+.order{
+	padding-top: 450px;
+}
+
+.order h1
+{
+	text-align: center;
+	color: #248f24;
+	text-shadow: 2px 2px #00ff00;
+	font-size: 40px;
+	font-family: serif;
+	text-decoration-line: underline;
+	font-weight: bold;
+}
+
+.manu-bar
+{
+	background: rgb(0,100,0);
+	text-align: center;
+}
+
+.manu-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+	color: #fff;
+}
+
+.manu-bar ul li
+{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+}
+
+.manu-bar ul li a
+{
+	text-decoration: none;
+	color: #fff;
+}
+
+.active, .manu-bar ul li:hover
+{
+	background:  #2bab0d;
+	border-radius: 3px;
+}
+
+.manu-bar .fa
+{
+	margin-left: 8px; 
+}
