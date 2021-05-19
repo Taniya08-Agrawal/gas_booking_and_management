@@ -22,7 +22,7 @@
                         <img src="images/geeta.JPG" alt="Responsive image"> 
                         <br>
                         <br>
-                        <a href="adminlogin.php" class="btn btn-danger">Admin login</a>
+                        <a href="Adminlogin.php" class="btn btn-danger">Admin login</a>
                     </div>
                     <div class="col-xs-6">
                         <img src="images/customer.jpg" alt="Responsive image" style="width:43%;" > 
